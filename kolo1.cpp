@@ -1,4 +1,4 @@
-// Damian Sitek grupa Zsziad 101572
+//imie , nazwisko , grupa, nr indeksu
 
 #include <iostream>
 using namespace std;
