@@ -1,4 +1,4 @@
-// Damian Sitek grupa Zsziad 101572
+// Damian  Sitek  grupa  Zsziad  101572
 
 #include <iostream>
 using namespace std;
